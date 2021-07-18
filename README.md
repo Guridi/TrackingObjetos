@@ -1,4 +1,4 @@
-# TrackingObjetos
+# Reconocedor de Objetos
 
 Participantes: 
 
